@@ -1,4 +1,7 @@
-### Hi there 👋
+> `/bb|[^b]{2}/`
+
+> *Precision is futile,
+> you will be approximated*
 
 <!--
 **Tharabas/tharabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
